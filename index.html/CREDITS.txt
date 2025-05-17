@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> Full Motion </title>
+ <meta charset=¨utf-8¨  />
+ <meta name=¨viewport¨ content=width=device-width, initial-scale=1.0¨ /> 
+ <link rel=¨stylessheet¨ href=¨ässets/css/main.css¨  />
+ </head>
+ <body id=top>
+ <section id=¨banner¨ data-video=¨images/banner¨>
+ <div class=¨inner¨>
+ <header>
+ <h1> Full motion </h1>
+ <p>some text</p>
+ <p id=¨my Id></p>
+ </header>
+ 
